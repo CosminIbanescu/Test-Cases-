@@ -14,6 +14,7 @@ Check if the login functionality and URL site addresses works independently.
 3. Acces the new URL address. 
 
 **Expected result:** User shouldn’t be able to login and must appear on a page with an error message. 
+
 **Test data:** Address will be  www.website.com/myaccount 
 
 
