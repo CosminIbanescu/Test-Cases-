@@ -59,3 +59,21 @@ Users should be able to see the product using only product code/id in search.
 Anything product which has a product code/id. 
 
 ---------------------
+
+**Title:**
+Test login with incorrect credentials
+
+**Description:**
+Check if the login works when a person uses an incorrect name or password. 
+
+**Steps to reproduce:**
+Go to: www.website.com/login
+Add a some incorrect user / pass 
+
+**Expected result:**
+User shouldn’t be able to login and it gets an error message.
+
+**Test data:**
+User: Radu & Pass: 1111111
+
+---------------------
