@@ -15,14 +15,14 @@ Check if the login functionality and URL site addresses works independently.
 2. Change the “login” word from above address with word “myaccount”, the new address will be  www.website.com/myaccount 
 3. Acces the new URL address 
 
-**Expected result:** User shouldn’t be able to login and must appear on a page with an error message. 
+**Expected result:** User shouldn’t be able to login and must appear a page with an error message. 
 
 **Test data:** Address will be  www.website.com/myaccount 
 
 ---------------------
 
 **Title:**
-Test login with correct credentials and active/selected/tick  “Remember Me” option.
+Test login with correct credentials and selected(active) “Remember Me” option.
 
 **Description:**
 Check if the login functionality saves the user data after disconnect and displays them when the user wants to connect.
@@ -35,7 +35,7 @@ Check if the login functionality saves the user data after disconnect and displa
 5. See if the login fields are already completed with test data at the login section 
 
 **Expected result:**
-User should be able to login without completing the login fields if the “Remember Me” option is active. 
+User should be able to login without completing the login fields if the “Remember Me” option is selected. 
 
 **Test data:** 
 User: Radu and Pass: 123456
