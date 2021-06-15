@@ -67,8 +67,8 @@ Test login with incorrect credentials
 Check if the login works when a person uses an incorrect name or password. 
 
 **Steps to reproduce:**
-Go to: www.website.com/login
-Add a some incorrect user / pass 
+1. Go to: www.website.com/login
+2. Add a some incorrect user / pass 
 
 **Expected result:**
 User shouldn’t be able to login and it gets an error message.
